@@ -8,6 +8,10 @@ sites:
     url: https://api.dsr.re
   - name: CDN
     url: https://cdn.dsr.re
+    expectedStatusCodes:
+      - 200
+      - 404
+      - 403
 
 status-website:
   cname: status.dsr.re
