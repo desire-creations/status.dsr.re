@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.dsr.re.ico",
     "slug": "cdn",
     "status": "up",
-    "uptime": "3.67%",
-    "uptimeDay": "3.67%",
-    "uptimeWeek": "3.67%",
-    "uptimeMonth": "3.67%",
-    "uptimeYear": "3.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 222,
     "timeWeek": 222,
     "timeMonth": 222,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2023-10-22": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
