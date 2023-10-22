@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 778,
-    "timeWeek": 778,
-    "timeMonth": 778,
-    "timeYear": 778,
+    "time": 697,
+    "timeDay": 697,
+    "timeWeek": 697,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 769,
-    "timeWeek": 769,
-    "timeMonth": 769,
-    "timeYear": 769,
+    "time": 635,
+    "timeDay": 635,
+    "timeWeek": 635,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://cdn.dsr.re",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.dsr.re.ico",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "7.26%",
-    "uptimeDay": "7.26%",
-    "uptimeWeek": "7.26%",
-    "uptimeMonth": "7.26%",
-    "uptimeYear": "7.26%",
-    "time": 57,
-    "timeDay": 57,
-    "timeWeek": 57,
-    "timeMonth": 57,
-    "timeYear": 57,
+    "status": "up",
+    "uptime": "3.67%",
+    "uptimeDay": "3.67%",
+    "uptimeWeek": "3.67%",
+    "uptimeMonth": "3.67%",
+    "uptimeYear": "3.67%",
+    "time": 222,
+    "timeDay": 222,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-10-22": 0
+      "2023-10-22": 2
     }
   }
 ]
