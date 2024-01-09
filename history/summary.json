@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsr.re.ico",
     "slug": "dsr-website",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 614,
-    "timeDay": 527,
-    "timeWeek": 621,
-    "timeMonth": 582,
-    "timeYear": 614,
+    "uptimeYear": "100.00%",
+    "time": 612,
+    "timeDay": 458,
+    "timeWeek": 612,
+    "timeMonth": 574,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2023-12-03": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 583,
-    "timeWeek": 592,
-    "timeMonth": 557,
-    "timeYear": 606,
+    "time": 604,
+    "timeDay": 474,
+    "timeWeek": 573,
+    "timeMonth": 550,
+    "timeYear": 604,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 429,
-    "timeWeek": 252,
+    "time": 308,
+    "timeDay": 475,
+    "timeWeek": 314,
     "timeMonth": 379,
-    "timeYear": 306,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   }
 ]
