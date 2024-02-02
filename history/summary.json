@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsr.re.ico",
     "slug": "dsr-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 620,
-    "timeDay": 653,
-    "timeWeek": 642,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 619,
+    "timeDay": 542,
+    "timeWeek": 610,
     "timeMonth": 635,
-    "timeYear": 620,
+    "timeYear": 619,
     "dailyMinutesDown": {
-      "2024-02-01": 7,
       "2023-12-03": 6
     }
   },
@@ -27,18 +26,16 @@
     "slug": "general-use-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
-    "timeDay": 679,
-    "timeWeek": 648,
-    "timeMonth": 625,
+    "timeDay": 596,
+    "timeWeek": 645,
+    "timeMonth": 623,
     "timeYear": 612,
-    "dailyMinutesDown": {
-      "2024-02-01": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -51,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 531,
-    "timeWeek": 318,
-    "timeMonth": 286,
-    "timeYear": 304,
+    "time": 303,
+    "timeDay": 193,
+    "timeWeek": 281,
+    "timeMonth": 291,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   }
 ]
