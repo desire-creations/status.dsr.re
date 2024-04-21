@@ -4,9 +4,9 @@
     "url": "https://dsr.re",
     "icon": "https://icons.duckduckgo.com/ip3/dsr.re.ico",
     "slug": "dsr-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 579,
     "timeYear": 619,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2023-12-03": 6
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://api.dsr.re",
     "icon": "https://icons.duckduckgo.com/ip3/api.dsr.re.ico",
     "slug": "general-use-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 633,
     "timeMonth": 595,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-21": 0
+    }
   },
   {
     "name": "CDN",
