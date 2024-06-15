@@ -6,17 +6,16 @@
     "slug": "dsr-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 659,
-    "timeDay": 844,
-    "timeWeek": 823,
-    "timeMonth": 808,
+    "timeDay": 836,
+    "timeWeek": 790,
+    "timeMonth": 810,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-06-14": 6,
       "2023-12-03": 6
     }
   },
@@ -27,18 +26,16 @@
     "slug": "general-use-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 645,
-    "timeDay": 737,
-    "timeWeek": 848,
-    "timeMonth": 745,
+    "timeDay": 776,
+    "timeWeek": 819,
+    "timeMonth": 750,
     "timeYear": 645,
-    "dailyMinutesDown": {
-      "2024-06-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -52,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 338,
-    "timeDay": 428,
-    "timeWeek": 530,
-    "timeMonth": 497,
+    "timeDay": 322,
+    "timeWeek": 516,
+    "timeMonth": 492,
     "timeYear": 338,
     "dailyMinutesDown": {}
   }
