@@ -4,19 +4,19 @@
     "url": "https://dsr.re",
     "icon": "https://icons.duckduckgo.com/ip3/dsr.re.ico",
     "slug": "dsr-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 1027,
-    "timeWeek": 911,
-    "timeMonth": 850,
-    "timeYear": 673,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 674,
+    "timeDay": 984,
+    "timeWeek": 914,
+    "timeMonth": 852,
+    "timeYear": 674,
     "dailyMinutesDown": {
-      "2024-06-26": 0,
+      "2024-06-26": 14,
       "2023-12-03": 6
     }
   },
@@ -27,9 +27,9 @@
     "slug": "general-use-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 661,
     "timeDay": 987,
@@ -37,7 +37,7 @@
     "timeMonth": 843,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2024-06-26": 0
+      "2024-06-26": 14
     }
   },
   {
