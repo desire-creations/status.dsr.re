@@ -1,7 +1,7 @@
 url: https://dsr.re
-status: up
-code: 200
-responseTime: 1366
-lastUpdated: 2024-07-13T23:15:09.920Z
+status: down
+code: 500
+responseTime: 3529
+lastUpdated: 2024-07-14T10:40:44.356Z
 startTime: 2023-10-22T22:04:48.773Z
 generator: Upptime <https://github.com/upptime/upptime>
