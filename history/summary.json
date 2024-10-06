@@ -39,7 +39,7 @@
     "timeMonth": 1144,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2024-10-06": 398,
+      "2024-10-06": 407,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
@@ -149,19 +149,19 @@
     "url": "https://cdn.dsr.re",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.dsr.re.ico",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 431,
-    "timeDay": 457,
-    "timeWeek": 601,
-    "timeMonth": 557,
+    "timeDay": 424,
+    "timeWeek": 574,
+    "timeMonth": 552,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2024-10-06": 0
+      "2024-10-06": 9
     }
   }
 ]
