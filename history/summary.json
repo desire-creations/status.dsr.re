@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsr.re.ico",
     "slug": "dsr-website",
     "status": "down",
-    "uptime": "71.93%",
+    "uptime": "71.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.11%",
+    "uptimeYear": "29.84%",
     "time": 1484,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2026-04-20": 116,
+      "2026-04-21": 111,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -273,8 +274,7 @@
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
-      "2025-08-06": 190,
-      "2025-04-21": 136
+      "2025-08-06": 190
     }
   },
   {
@@ -283,7 +283,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dsr.re.ico",
     "slug": "general-use-api",
     "status": "down",
-    "uptime": "27.21%",
+    "uptime": "27.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -294,7 +294,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-20": 116,
+      "2026-04-21": 111,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -657,8 +658,7 @@
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   },
   {
@@ -667,18 +667,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.dsr.re.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "66.35%",
+    "uptime": "66.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.08%",
-    "time": 494,
+    "uptimeYear": "15.81%",
+    "time": 495,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 483,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2026-04-20": 116,
+      "2026-04-21": 111,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
