@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsr.re.ico",
     "slug": "dsr-website",
     "status": "down",
-    "uptime": "67.69%",
+    "uptime": "67.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.51%",
-    "time": 1382,
+    "uptimeYear": "14.24%",
+    "time": 1384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1114,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2026-03-19": 129,
       "2026-03-18": 1440,
@@ -242,7 +242,8 @@
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 190,
-      "2026-06-16": 175,
+      "2026-06-17": 171,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -339,7 +340,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dsr.re.ico",
     "slug": "general-use-api",
     "status": "down",
-    "uptime": "25.61%",
+    "uptime": "25.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -350,7 +351,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-16": 175,
+      "2026-06-17": 171,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -713,8 +715,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
-      "2025-06-18": 1440,
-      "2025-06-17": 1440
+      "2025-06-18": 1440
     }
   },
   {
@@ -723,18 +724,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.dsr.re.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "62.43%",
+    "uptime": "62.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.46%",
-    "time": 498,
+    "uptimeYear": "0.18%",
+    "time": 501,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 570,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-16": 175,
+      "2026-06-17": 171,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -1097,8 +1099,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
-      "2025-06-18": 1440,
-      "2025-06-17": 311
+      "2025-06-18": 1440
     }
   }
 ]
